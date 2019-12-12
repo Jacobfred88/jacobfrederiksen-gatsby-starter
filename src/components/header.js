@@ -7,7 +7,7 @@ const Header = ({ siteTitle }) => (
     <div>
       <h1>
         <Link to="/">
-          Logo
+          {siteTitle}
         </Link>
       </h1>
     </div>
