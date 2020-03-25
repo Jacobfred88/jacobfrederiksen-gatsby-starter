@@ -14,7 +14,7 @@ const Page = () => (
         </div>
         <div className="w-full lg:w-1/2 px-12">
           <h1 className="text-6xl">Page</h1>
-          <TransitionLink to="/" className="bg-black px-8 py-4 text-xs text-white inline-block rounded mt-12">Home</TransitionLink>
+          <TransitionLink to="/" className="bg-white px-8 py-4 text-xs text-black inline-block rounded mt-12">Home</TransitionLink>
         </div>
       </div>
     </div>

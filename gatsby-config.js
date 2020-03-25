@@ -47,6 +47,7 @@ module.exports = {
       options: {
         printRejected: true,
         tailwind: true,
+        whitelistPatterns: [/^is-/,/^is-non/,/^flickity-/],
       }
     }
   ]
