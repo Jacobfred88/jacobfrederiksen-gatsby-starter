@@ -6,7 +6,7 @@
   "author": "Jacob Frederiksen <hello@jacobfrederiksen.com>",
   "dependencies": {
     "browserizr": "^3.2.4",
-    "gatsby": "^2.17.11",
+    "gatsby": "^2.32.13",
     "gatsby-image": "^2.2.31",
     "gatsby-plugin-manifest": "^2.2.27",
     "gatsby-plugin-offline": "^3.0.19",
